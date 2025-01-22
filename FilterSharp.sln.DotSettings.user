@@ -1,0 +1,17 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=49c4543d_002D8686_002D43b2_002D8d84_002D8b85506aae76/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="WhenUserIsDeleted_ExpectUserToBeDeleted" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;xUnit::6784392C-3EEF-46BC-ABCC-4FC90B1A44B2::net7.0::CareTaskr.Tests.UserManagementServiceTest.WhenUserIsDeleted_ExpectUserToBeDeleted&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::6784392C-3EEF-46BC-ABCC-4FC90B1A44B2::net7.0::CareTaskr.Tests.PatientServiceTest.WhenPatientIsDisabled_ExpectPatientToBeEnabledWhenUnarchiving&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::6784392C-3EEF-46BC-ABCC-4FC90B1A44B2::net7.0::CareTaskr.Tests.PatientServiceTest&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::6784392C-3EEF-46BC-ABCC-4FC90B1A44B2::net7.0::CareTaskr.Tests.TimeSheetReportServiceTest.GetTimesheetReport&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::6784392C-3EEF-46BC-ABCC-4FC90B1A44B2::net7.0::CareTaskr.Tests.ListParticipantServiceTest.ListParticipantsMethod_ShouldReturnListOfParticipantsOrderedByName&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::6784392C-3EEF-46BC-ABCC-4FC90B1A44B2::net7.0::CareTaskr.Tests.ListParticipantServiceTest&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+    &lt;ProjectFile&gt;6784392C-3EEF-46BC-ABCC-4FC90B1A44B2/f:HcpInvoiceStatusChangeTest.cs&lt;/ProjectFile&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ac1edc21_002D104c_002D48fa_002Dbc9f_002D23ddc91b3291/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/home/nightmaregaurav/Repositories/caretaskr/CareTaskr.Tests" Presentation="&amp;lt;CareTaskr.Tests&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
